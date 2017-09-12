@@ -1,0 +1,11 @@
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\bin\Debug\netcoreapp2.0\SecuritiesAPI.deps.json
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\bin\Debug\netcoreapp2.0\SecuritiesAPI.runtimeconfig.json
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\bin\Debug\netcoreapp2.0\SecuritiesAPI.runtimeconfig.dev.json
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\bin\Debug\netcoreapp2.0\SecuritiesAPI.dll
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\bin\Debug\netcoreapp2.0\SecuritiesAPI.pdb
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\obj\Debug\netcoreapp2.0\SecuritiesAPI.csprojResolveAssemblyReference.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\obj\Debug\netcoreapp2.0\SecuritiesAPI.csproj.CoreCompileInputs.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\obj\Debug\netcoreapp2.0\SecuritiesAPI.AssemblyInfoInputs.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\obj\Debug\netcoreapp2.0\SecuritiesAPI.AssemblyInfo.cs
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\obj\Debug\netcoreapp2.0\SecuritiesAPI.dll
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesAPI\obj\Debug\netcoreapp2.0\SecuritiesAPI.pdb

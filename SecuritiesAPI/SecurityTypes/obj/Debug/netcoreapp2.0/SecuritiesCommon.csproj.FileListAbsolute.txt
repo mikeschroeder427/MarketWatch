@@ -1,0 +1,9 @@
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\bin\Debug\netcoreapp2.0\SecuritiesCommon.deps.json
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\bin\Debug\netcoreapp2.0\SecuritiesCommon.dll
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\bin\Debug\netcoreapp2.0\SecuritiesCommon.pdb
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\obj\Debug\netcoreapp2.0\SecuritiesCommon.csprojResolveAssemblyReference.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\obj\Debug\netcoreapp2.0\SecuritiesCommon.csproj.CoreCompileInputs.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\obj\Debug\netcoreapp2.0\SecuritiesCommon.AssemblyInfoInputs.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\obj\Debug\netcoreapp2.0\SecuritiesCommon.AssemblyInfo.cs
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\obj\Debug\netcoreapp2.0\SecuritiesCommon.dll
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecurityTypes\obj\Debug\netcoreapp2.0\SecuritiesCommon.pdb

@@ -1,0 +1,14 @@
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\bin\Debug\netcoreapp2.0\SecuritiesDAL.deps.json
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\bin\Debug\netcoreapp2.0\SecuritiesDAL.dll
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\bin\Debug\netcoreapp2.0\SecuritiesDAL.pdb
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\obj\Debug\netcoreapp2.0\SecuritiesDAL.csprojResolveAssemblyReference.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\obj\Debug\netcoreapp2.0\SecuritiesDAL.csproj.CoreCompileInputs.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\obj\Debug\netcoreapp2.0\SecuritiesDAL.AssemblyInfoInputs.cache
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\obj\Debug\netcoreapp2.0\SecuritiesDAL.AssemblyInfo.cs
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\obj\Debug\netcoreapp2.0\SecuritiesDAL.dll
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\obj\Debug\netcoreapp2.0\SecuritiesDAL.pdb
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\bin\Debug\netcoreapp2.0\SecuritiesDAL.runtimeconfig.json
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\bin\Debug\netcoreapp2.0\SecuritiesDAL.runtimeconfig.dev.json
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\bin\Debug\netcoreapp2.0\SecuritiesDAL.dll.config
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\bin\Debug\netcoreapp2.0\SecuritiesCommon.dll
+C:\Users\s003637\Documents\Projects NET\SecuritiesAPI\SecuritiesAPI\SecuritiesDAL\bin\Debug\netcoreapp2.0\SecuritiesCommon.pdb
